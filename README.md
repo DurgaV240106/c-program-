@@ -31,3 +31,6 @@ int main()
 
 ## OUTPUT:
 ![Screenshot 2024-05-06 141310](https://github.com/DurgaV240106/c-program-/assets/144870878/fd9554ab-2ce6-4a56-8b4d-dce7331e7c0d)
+
+## RESULT:
+Thus, the required program is written and executed successfully.
