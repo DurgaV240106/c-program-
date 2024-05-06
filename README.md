@@ -36,7 +36,7 @@ int main()
 Thus, the required program is written and executed successfully.
 
 
-## EXPREIMENT-1-ASCII Value Printer
+## EXPREIMENT-02-ASCII Value Printer
 
 ## Aim: 
 The aim of this program is to take a character input from the user, determine its ASCII value, and then display the character along with its ASCII value.
